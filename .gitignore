@@ -1,0 +1,4 @@
+# Locally generated packaging/preview artifacts.
+# Keep the repository PR-friendly by committing source files and SVG assets only.
+transatlantic-wellness-initiative-website.zip
+twi-homepage.png

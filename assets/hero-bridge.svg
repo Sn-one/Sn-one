@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" role="img" aria-labelledby="title desc">
+  <title id="title">Transatlantic wellness bridge</title>
+  <desc id="desc">A bridge crosses ocean waves between two community circles.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e8fffb"/><stop offset="1" stop-color="#fff1ca"/></linearGradient>
+    <linearGradient id="water" x1="0" x2="1"><stop stop-color="#075475"/><stop offset="1" stop-color="#16a99a"/></linearGradient>
+  </defs>
+  <rect x="50" y="50" width="660" height="500" rx="44" fill="url(#sky)" opacity=".96"/>
+  <circle cx="605" cy="135" r="48" fill="#f7b733"/>
+  <path d="M82 392c82-33 142-29 213 1 84 36 146 36 235 0 67-27 111-34 178-9v126H82Z" fill="url(#water)"/>
+  <path d="M123 411c75-30 126-24 197 7 73 32 132 30 213-2 56-22 98-25 153-4" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+  <path d="M139 323c120-107 321-108 454 0" fill="none" stroke="#10243f" stroke-width="18" stroke-linecap="round"/>
+  <path d="M164 322h404" stroke="#fffaf0" stroke-width="20" stroke-linecap="round"/>
+  <path d="M178 319h376" stroke="#f7b733" stroke-width="9" stroke-linecap="round" stroke-dasharray="2 22"/>
+  <path d="M205 321V224M307 321V184M454 321V184M556 321V224" stroke="#10243f" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="188" cy="215" r="58" fill="#fff" stroke="#16a99a" stroke-width="8"/>
+  <path d="M187 181c22 26 33 44 33 59 0 18-12 31-32 31s-33-13-33-31c0-15 11-33 32-59Z" fill="#076c8f"/>
+  <circle cx="572" cy="215" r="58" fill="#fff" stroke="#16a99a" stroke-width="8"/>
+  <path d="M545 225h54M572 198v54" stroke="#076c8f" stroke-width="13" stroke-linecap="round"/>
+</svg>

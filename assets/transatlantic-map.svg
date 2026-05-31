@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" role="img" aria-labelledby="title desc">
+  <title id="title">Transatlantic connection map</title>
+  <desc id="desc">Stylized ocean map with routes between North America, the Caribbean, West Africa, and Europe.</desc>
+  <rect width="760" height="470" rx="30" fill="#e9fbfa"/>
+  <path d="M0 296c77-31 143-32 218-3 83 32 162 33 254-2 101-39 188-35 288 8v171H0Z" fill="#c9efeb"/>
+  <path d="M104 88c54-35 124-41 177-4 34 24 38 65 7 91-33 27-81 19-114 42-29 20-30 58-63 70-41 16-83-25-75-68 9-48 28-106 68-131Z" fill="#16a99a" opacity=".85"/>
+  <path d="M541 118c49-42 110-35 143 12 34 48 6 112-39 134-35 17-68 1-105 23-25 15-49 53-82 39-30-13-30-57-8-86 31-41 52-88 91-122Z" fill="#f7b733" opacity=".85"/>
+  <path d="M330 168c85-60 191-54 292 18" fill="none" stroke="#075475" stroke-width="6" stroke-linecap="round" stroke-dasharray="1 16"/>
+  <path d="M262 226c112-8 213 25 301 96" fill="none" stroke="#076c8f" stroke-width="6" stroke-linecap="round" stroke-dasharray="1 16"/>
+  <path d="M299 151c55 22 106 42 162 111" fill="none" stroke="#16a99a" stroke-width="6" stroke-linecap="round" stroke-dasharray="1 16"/>
+  <g fill="#10243f">
+    <circle cx="302" cy="151" r="10"/><circle cx="628" cy="188" r="10"/><circle cx="565" cy="326" r="10"/><circle cx="263" cy="226" r="10"/><circle cx="462" cy="263" r="10"/>
+  </g>
+</svg>
