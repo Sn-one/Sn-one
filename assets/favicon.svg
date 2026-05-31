@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Transatlantic Wellness Initiative logo</title>
+  <desc id="desc">A circular ocean bridge, sun, water drop, and wellness leaf mark.</desc>
+  <defs>
+    <linearGradient id="g" x1="16" x2="104" y1="104" y2="16" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#075475"/>
+      <stop offset=".54" stop-color="#16A99A"/>
+      <stop offset="1" stop-color="#F7B733"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="#fffaf0"/>
+  <circle cx="60" cy="60" r="51" fill="none" stroke="url(#g)" stroke-width="8"/>
+  <path d="M24 69c13-12 25-18 36-18s23 6 36 18" fill="none" stroke="#075475" stroke-width="7" stroke-linecap="round"/>
+  <path d="M29 79c16-9 31-13 46-9 7 2 12 5 16 9" fill="none" stroke="#16A99A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M61 31c8 10 12 17 12 24 0 8-5 14-13 14s-13-6-13-14c0-7 5-14 14-24Z" fill="#076C8F"/>
+  <path d="M60 54c8-10 17-15 28-15-1 11-7 19-18 24-5 2-9 1-10-2-1-2-1-5 0-7Z" fill="#16A99A"/>
+  <circle cx="84" cy="30" r="8" fill="#F7B733"/>
+</svg>
